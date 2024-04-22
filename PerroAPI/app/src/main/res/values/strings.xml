@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PerroAPI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="idperro_string">idPerro</string>
+    <string name="nombre_del_perro_string">Nombre del perro</string>
+    <string name="size_string">Tamaño</string>
+    <string name="height_string">Height</string>
+    <string name="life_years_string">Life years</string>
+    <string name="description_string">Description</string>
+    <string name="nombre_de_perro_string">Nombre de perro</string>
+    <string name="respuesta_recibida">Respuesta recibida: %1$s</string>
+    <string name="id_recibido_string">Id recibido: %1$s</string>
+    <string name="error_conexion_string">Error en la conexión: %1$s</string>
+    <string name="years_binding_string">Años de vida:  %1$s</string>
+    <string name="height_int_string">Altura en cms: %1$s</string>
+    <string name="size_dog_string">Tamaño: %1$s</string>
+</resources>
